@@ -1,11 +1,9 @@
 [package]
-name = "api"
+name = "mars_calc"
 version = "0.1.0"
-authors = ["veytiah <hayden@chainstarters.com>"]
+authors = ["gavadinov <gavadinov@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-juniper = "0.10.0"
-juniper_hyper = "0.1.0"
